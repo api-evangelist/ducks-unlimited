@@ -1,0 +1,32 @@
+aid: ducks-unlimited
+name: Ducks Unlimited
+description: "API explorer that gives a query URL with a JSON response of locations and cities"
+url: https://gis.ducks.org/datasets/du-university-chapters/api
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Geocoding"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Geocoding
+  - Public APIs
+apis:
+  - name: Ducks Unlimited
+    description: "API explorer that gives a query URL with a JSON response of locations and cities"
+    humanURL: https://gis.ducks.org/datasets/du-university-chapters/api
+    baseURL: https://gis.ducks.org/datasets/du-university-chapters/api
+    tags:
+      - Geocoding
+    properties:
+      - type: Documentation
+        url: https://gis.ducks.org/datasets/du-university-chapters/api
+common:
+  - type: Website
+    url: https://gis.ducks.org/datasets/du-university-chapters/api
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
