@@ -23,10 +23,16 @@ apis:
       - type: Documentation
         url: https://gis.ducks.org/datasets/du-university-chapters/api
 common:
+  - type: VulnerabilityDisclosure
+    url: security/ducks-unlimited-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/ducks-unlimited-domain-security.yml
   - type: Website
     url: https://gis.ducks.org/datasets/du-university-chapters/api
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - type: Blog
+    url: https://www.ducks.org/newsroom
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
