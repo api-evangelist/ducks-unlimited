@@ -39,7 +39,6 @@ apis:
   - name: Ducks Unlimited
     description: "API explorer that gives a query URL with a JSON response of locations and cities"
     humanURL: https://gis.ducks.org/datasets/du-university-chapters/api
-    baseURL: https://gis.ducks.org/datasets/du-university-chapters/api
     tags:
       - Geocoding
     properties:
